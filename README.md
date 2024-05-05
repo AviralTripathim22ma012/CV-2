@@ -20,7 +20,7 @@ This repository contains Jupyter notebooks and Python scripts demonstrating vari
 
 1. Clone the repository:
    ```bash
-   git clone repo_name
+   git clone https://github.com/AviralTripathim22ma012/Object-detection-techniques-in-computer-vision/
   
 ## 📖 Usage
 1- Simply navigate to the desired notebook or Python script.
