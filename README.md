@@ -21,12 +21,7 @@ This repository contains Jupyter notebooks and Python scripts demonstrating vari
 1. Clone the repository:
    ```bash
    git clone repo_name
-
-2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
   
-
 ## 📖 Usage
 1- Simply navigate to the desired notebook or Python script.
 2- Open it using Jupyter Notebook or any Python IDE.
