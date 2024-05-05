@@ -25,17 +25,17 @@ This repository contains Jupyter notebooks and Python scripts demonstrating vari
 2. Install dependencies:
   ```bash
   pip install -r requirements.txt
-  ```
+  
 
-📖 Usage
+## 📖 Usage
 1- Simply navigate to the desired notebook or Python script.
 2- Open it using Jupyter Notebook or any Python IDE.
 3- Run the code cells or script to observe the techniques in action!
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
